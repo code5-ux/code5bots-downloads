@@ -1,4 +1,6 @@
-<p align="center"><img src="logo.png" alt="CODE 5 BOTS" width="120"></p>
+<p align="left">
+  <img src="logo.png" alt="CODE 5 BOTS" width="180">
+</p>
 
 <h1 align="center">CODE 5 BOTS</h1>
 
