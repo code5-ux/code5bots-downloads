@@ -1,28 +1,30 @@
-<p align="left">
-  <img src="logo.png" alt="CODE 5 BOTS" width="180">
-</p>
-
-<h1 align="center">CODE 5 BOTS</h1>
-
-<p align="center">
-  <b>Набор ботов-помощников для GTA&nbsp;5&nbsp;RP</b><br>
-  Автоматизация рутинных занятий: шахта, стройка, порт, качалка, готовка, фермы и другое.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/версия-1.0.10-2ea44f?style=flat-square" alt="Версия">
-  <img src="https://img.shields.io/badge/платформа-Windows%2010%2F11-0078D6?style=flat-square" alt="Платформа">
-  <img src="https://img.shields.io/badge/доступ-по%20лицензии-blue?style=flat-square" alt="Лицензия">
-  <img src="https://img.shields.io/badge/обновления-автоматические-orange?style=flat-square" alt="Обновления">
-</p>
-
-<p align="center">
-  <a href="https://funpay.com/users/8967024/"><b>🛒 Купить на FunPay</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/code5-ux/code5bots-downloads/releases/latest"><b>⬇️ Скачать последнюю версию</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@Beber-j6e"><b>▶️ YouTube</b></a>
-</p>
+<table>
+  <tr>
+    <td width="200" align="left">
+      <img src="logo.png" alt="CODE 5 BOTS" width="180">
+    </td>
+    <td align="center">
+      <h1>CODE 5 BOTS</h1>
+      <p>
+        <b>Набор ботов-помощников для GTA&nbsp;5&nbsp;RP</b><br>
+        Автоматизация рутинных занятий: шахта, стройка, порт, качалка, готовка, фермы и другое.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/версия-1.0.10-2ea44f?style=flat-square" alt="Версия">
+        <img src="https://img.shields.io/badge/платформа-Windows%2010%2F11-0078D6?style=flat-square" alt="Платформа">
+        <img src="https://img.shields.io/badge/доступ-по%20лицензии-blue?style=flat-square" alt="Лицензия">
+        <img src="https://img.shields.io/badge/обновления-автоматические-orange?style=flat-square" alt="Обновления">
+      </p>
+      <p>
+        <a href="https://funpay.com/users/8967024/"><b>🛒 Купить на FunPay</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/code5-ux/code5bots-downloads/releases/latest"><b>⬇️ Скачать последнюю версию</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://www.youtube.com/@Beber-j6e"><b>▶️ YouTube</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
